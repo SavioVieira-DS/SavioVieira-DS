@@ -6,7 +6,7 @@ Mestre em Biociências e Biotecnologia em Saúde (IAM - 2015);
 
 Doutor pela Pós-Graduação em Medicina Tropical (CCM-UFPE - 2023), com ênfase na área de infecções virais: **Desenvolvi um projeto relacionado a biotecnologia humana utilizando ferramentas de bioinformática associadas a ciência de dados para prospecção de biomoléculas relacionadas ao câncer com pontêncial de aplicabilidade diagnósticas e terapêuticas no SUS (Sistema Único dde Saúde).**
 
- Atuo em projetos que envolvem principlamente as áreas de conhecimento relacionadas à bioinformática, à ciência de dados, à biologia molecular, à genética e à imunologia.
+Atuo em projetos que envolvem principlamente as áreas de conhecimento relacionadas à bioinformática, à ciência de dados, à biologia molecular, à genética e à imunologia.
 
 
 
@@ -45,12 +45,3 @@ Doutor pela Pós-Graduação em Medicina Tropical (CCM-UFPE - 2023), com ênfase
 ![Elisa](https://img.shields.io/badge/ELISA-grey?style=flat&logo)
 ![Citomria](https://img.shields.io/badge/Citometria_de_fluxo-grey?style=flat)
 
-
-
-## Destaques - GitHub
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SavioVieira-DS&repo=trilha-python-dio&theme=flag-india&&bg_color=898989&border_color=000&show_icons=true&icon_color=000&text_color=000)](https://github.com/SavioVieira-DS/trilha-python-dio)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SavioVieira-DS&theme=black&background=grey&border=black&dates=lightgrey)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/SavioVieira-DS/SavioVieira-DS/blob/output/github-contribution-grid-snake.svg)
