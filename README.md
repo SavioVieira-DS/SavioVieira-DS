@@ -16,16 +16,6 @@ Atuo em projetos que envolvem principlamente as áreas de conhecimento relaciona
 [![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/saviovieira__/?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
 [![E-mail](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail)](mailto:saviovoliveira@gmail.com)
 
-## Soft Skills
-![Empatia](https://img.shields.io/badge/Empatia-gray)
-![Estabilidade_emocional](https://img.shields.io/badge/Estabilidade_emocional-gray)
-![Planejamento_e_Organização](https://img.shields.io/badge/Planejamento_e_organização-grey)
-
-![Capacidade_analitica](https://img.shields.io/badge/Capacidade_analítica-gray)
-![Pensamento_conceitual](https://img.shields.io/badge/Pensamento_conceitual-gray)
-![Pensamento_criativo](https://img.shields.io/badge/Pensamento_criativo-gray)
-![Reflexão](https://img.shields.io/badge/Reflexão-gray)
-
 ## Hard skills 
 ![Bioinfo](https://img.shields.io/badge/Bioinformática-gray?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-grey?style=flat&logo=R&logoColor=30A3DC)
@@ -44,4 +34,15 @@ Atuo em projetos que envolvem principlamente as áreas de conhecimento relaciona
 ![imunogenética](https://img.shields.io/badge/Imunogenética-grey?style=flat&logo=)
 ![Elisa](https://img.shields.io/badge/ELISA-grey?style=flat&logo)
 ![Citomria](https://img.shields.io/badge/Citometria_de_fluxo-grey?style=flat)
+
+## Soft Skills
+![Empatia](https://img.shields.io/badge/Empatia-gray)
+![Estabilidade_emocional](https://img.shields.io/badge/Estabilidade_emocional-gray)
+![Planejamento_e_Organização](https://img.shields.io/badge/Planejamento_e_organização-grey)
+
+![Capacidade_analitica](https://img.shields.io/badge/Capacidade_analítica-gray)
+![Pensamento_conceitual](https://img.shields.io/badge/Pensamento_conceitual-gray)
+![Pensamento_criativo](https://img.shields.io/badge/Pensamento_criativo-gray)
+![Reflexão](https://img.shields.io/badge/Reflexão-gray)
+
 
