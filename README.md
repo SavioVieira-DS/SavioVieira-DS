@@ -53,4 +53,4 @@ Doutor pela Pós-Graduação em Medicina Tropical (CCM-UFPE - 2023), com ênfase
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SavioVieira-DS&theme=black&background=grey&border=black&dates=lightgrey)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/SavioVieira-DS/SavioVieira-DS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SavioVieira-DS/SavioVieira-DS/blob/output/github-contribution-grid-snake.svg)
